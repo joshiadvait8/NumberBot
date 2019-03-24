@@ -1,4 +1,4 @@
-<h3 align=center> Number Bot</h3>
+<h2 align=center> Number Bot</h2>
 <div>
 
 <br>
@@ -15,9 +15,17 @@
  </ul>
 </div>
 <div align=center>
-<h4>Number Bot on Messenger</h4>
-<img src="./assets/1.gif">
-<img src="./assets/2.gif">
-<img src="./assets/3.gif">
+<h3>Number Bot on Messenger</h3>
+<img width=30% src="./assets/1.gif">
+<img width=30% src="./assets/2.gif">
+<img width=30% src="./assets/3.gif">
   
 </div>
+
+-----------------------------------------------------------
+### Installation
+
+* Install dependencies
+```sh
+        $ pip3 install -r requirements.txt
+```
